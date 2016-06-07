@@ -34,7 +34,6 @@ git clone https://github.com/jasontasker/search_locality.git
 ```
 
 ## Execution
-##### Install 
 ```sh
 cd search_locality
 python search.py --context1 "vim tutor" --context2 "follow the instructions" --directory /usr/share/vim --min 0 --max 5 --extension txt
